@@ -1,3 +1,7 @@
+Add Settings.json under Cosmos folder, next to SapleUtiles.cs
+
+
+
 ---
 services: cosmos-db
 platforms: dotnet core
